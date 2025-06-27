@@ -1,0 +1,53 @@
+RewriteEngine On
+
+# Chuyển hướng HTTP sang HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+#CLIENT
+RewriteRule ^auth/login$ /Page/auth/login.php [L]
+RewriteRule ^check-license$ /Page/auth/check-license.php [L]
+RewriteRule ^auth/register$ /Page/auth/register.php [L]
+RewriteRule ^auth/logout$ /Page/auth/logout.php [L]
+RewriteRule ^profile$ /Page/profile.php [L]
+RewriteRule ^lich-su-mua-hang$ /Page/sanpham/lichsumuahang.php [L]
+RewriteRule ^nap-atm$ /Page/napbank/nap-atm.php [L]
+RewriteRule ^ls-nap-atm$ /Page/napbank/ls-nap-atm.php [L]
+RewriteRule ^view-sp/([A-Za-z0-9-]+) /Page/sanpham/view-san-pham.php?list=$1 [L]
+RewriteRule ^view-ls/([A-Za-z0-9-]+) /Page/sanpham/view-lssp.php?id=$1 [L]
+RewriteRule ^reset-pass$ /Page/auth/resetpass.php [L]
+RewriteRule ^dat-pass/([A-Za-z0-9-]+) /Page/auth/datpass.php?id=$1 [L]
+RewriteRule ^affiliate/ruttien$ /Page/affiliate/withdraw_money.php [L]
+RewriteRule ^affiliate/history$ /Page/affiliate/history-affiiate.php [L]
+RewriteRule ^affiliate/thongke$ /Page/affiliate/affiliate.php [L]
+RewriteRule ^ref/([A-Za-z0-9-]+) /Page/affiliate/ref.php?ref=$1 [L]
+RewriteRule ^seller/([A-Za-z0-9-]+) /Page/seller/view-sp.php?sl=$1 [L]
+RewriteRule ^view-products/([A-Za-z0-9-]+) /Page/sanpham/product_show.php?id=$1 [L]
+RewriteRule ^file$ /Page/seller/file.php [L]
+RewriteRule ^update-sp$ /Page/seller/update-sp.php [L]
+RewriteRule ^shop$ /Page/seller/shop.php [L]
+RewriteRule ^rut-tien-sl$ /Page/seller/rut_tien.php [L]
+
+
+#ADMIN
+RewriteRule ^admin-nc$ /admin/home.php [L]
+RewriteRule ^admin-nc/danh-muc$ /admin/ProductCategory.php [L]
+RewriteRule ^admin-nc/users$ /admin/user.php [L]
+RewriteRule ^admin-nc/edit-thanhvien/([A-Za-z0-9-]+) /admin/edit-thanhvien.php?id=$1 [L]
+RewriteRule ^admin-nc/tk-nap$ /admin/tk-nap.php [L]
+RewriteRule ^admin-nc/setting$ /admin/setting.php [L]
+RewriteRule ^admin-nc/list-bank$ /admin/danh-sach-bank.php [L]
+RewriteRule ^admin-nc/edit-bank/([A-Za-z0-9-]+) /admin/edit-bank.php?id=$1 [L]
+RewriteRule ^admin-nc/add-bank$ /admin/add-bank.php [L]
+RewriteRule ^admin-nc/ls-mua-hang$ /admin/lich-su-mua-hang.php [L]
+RewriteRule ^admin-nc/don-rut-tien$ /admin/affiliate.php [L]
+RewriteRule ^admin-nc/seller$ /admin/file_sl.php [L]
+#ERROR
+ErrorDocument 404 /Page/error/404.php
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php74” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php74___lsphp .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

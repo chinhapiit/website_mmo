@@ -1,0 +1,26 @@
+[18-Mar-2025 13:00:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $ctv in /home/marketmm/public_html/Ajax/seller/withdraw_money.php on line 10
+[18-Mar-2025 13:00:14 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Ajax/seller/withdraw_money.php on line 10
+[18-Mar-2025 13:00:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $ctv in /home/marketmm/public_html/Ajax/seller/withdraw_money.php on line 10
+[18-Mar-2025 13:00:14 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Ajax/seller/withdraw_money.php on line 10
+[18-Mar-2025 13:00:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $ctv in /home/marketmm/public_html/Ajax/seller/withdraw_money.php on line 10
+[18-Mar-2025 13:00:23 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Ajax/seller/withdraw_money.php on line 10
+[18-Mar-2025 13:00:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $ctv in /home/marketmm/public_html/Ajax/seller/withdraw_money.php on line 10
+[18-Mar-2025 13:00:23 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Ajax/seller/withdraw_money.php on line 10
+[23-Mar-2025 08:52:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/marketmm/public_html/Ajax/seller/seller.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/marketmm/public_html/Ajax/seller/seller.php on line 109
+[23-Mar-2025 08:52:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/marketmm/public_html/Ajax/seller/seller.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/marketmm/public_html/Ajax/seller/seller.php on line 109
+[23-Mar-2025 08:57:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tt_sp" in /home/marketmm/public_html/Ajax/seller/seller.php on line 101
+[23-Mar-2025 08:57:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tt_sp" in /home/marketmm/public_html/Ajax/seller/seller.php on line 101
+[23-Mar-2025 08:58:04 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tt_sp" in /home/marketmm/public_html/Ajax/seller/seller.php on line 101
+[23-Mar-2025 08:58:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tt_sp" in /home/marketmm/public_html/Ajax/seller/seller.php on line 101
+[23-Mar-2025 08:59:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tt_sp" in /home/marketmm/public_html/Ajax/seller/seller.php on line 101
+[23-Mar-2025 09:17:17 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tt_sps" in /home/marketmm/public_html/Ajax/seller/seller.php on line 101
+[23-Mar-2025 09:17:36 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tt_sps" in /home/marketmm/public_html/Ajax/seller/seller.php on line 101
+[23-Mar-2025 09:17:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tt_sps" in /home/marketmm/public_html/Ajax/seller/seller.php on line 101
+[23-Mar-2025 09:17:42 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tt_sps" in /home/marketmm/public_html/Ajax/seller/seller.php on line 101
+[23-Mar-2025 09:17:43 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "tt_sps" in /home/marketmm/public_html/Ajax/seller/seller.php on line 101

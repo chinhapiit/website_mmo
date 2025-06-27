@@ -1,0 +1,165 @@
+[16-Mar-2025 00:11:53 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/marketmm/public_html/Page/seller/file.php on line 45
+[16-Mar-2025 00:56:21 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/marketmm/public_html/Page/seller/file.php on line 45
+[16-Mar-2025 00:58:35 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/marketmm/public_html/Page/seller/file.php on line 45
+[16-Mar-2025 02:21:29 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[16-Mar-2025 02:21:40 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/marketmm/public_html/Page/seller/file.php on line 45
+[16-Mar-2025 02:21:46 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/marketmm/public_html/Page/seller/file.php on line 45
+[16-Mar-2025 20:21:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[16-Mar-2025 22:42:45 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/marketmm/public_html/Page/seller/file.php on line 45
+[17-Mar-2025 23:10:14 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/marketmm/public_html/Page/seller/file.php on line 45
+[18-Mar-2025 04:09:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[18-Mar-2025 13:00:25 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[18-Mar-2025 14:45:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[18-Mar-2025 16:02:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[18-Mar-2025 22:16:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[19-Mar-2025 01:08:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[19-Mar-2025 12:21:36 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[19-Mar-2025 16:42:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[20-Mar-2025 02:25:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[20-Mar-2025 15:14:51 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[20-Mar-2025 19:26:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[20-Mar-2025 23:44:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[21-Mar-2025 01:15:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[23-Mar-2025 08:26:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $dm in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $dm in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $dm in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $dm in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $dm in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $dm in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $dm in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $dm in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $dm in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[23-Mar-2025 09:20:12 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Page/seller/shop.php on line 361
+[27-Mar-2025 10:20:36 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[27-Mar-2025 10:20:36 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[27-Mar-2025 10:20:36 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[27-Mar-2025 10:20:36 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[27-Mar-2025 10:20:36 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[28-Mar-2025 05:54:34 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[28-Mar-2025 05:54:34 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[28-Mar-2025 05:54:34 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[28-Mar-2025 05:54:34 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[28-Mar-2025 05:54:34 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[28-Mar-2025 05:54:34 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[28-Mar-2025 05:54:47 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[28-Mar-2025 05:54:47 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[28-Mar-2025 05:54:47 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[28-Mar-2025 05:54:47 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[28-Mar-2025 05:54:47 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[28-Mar-2025 07:32:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[28-Mar-2025 07:32:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[28-Mar-2025 07:32:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[28-Mar-2025 07:32:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[28-Mar-2025 07:32:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[28-Mar-2025 07:33:05 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[28-Mar-2025 07:33:05 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[28-Mar-2025 07:33:05 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[28-Mar-2025 07:33:05 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[28-Mar-2025 07:33:05 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[28-Mar-2025 07:33:13 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[28-Mar-2025 07:33:13 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[28-Mar-2025 07:33:13 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[28-Mar-2025 07:33:13 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[28-Mar-2025 07:33:13 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[28-Mar-2025 07:33:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[28-Mar-2025 07:33:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[28-Mar-2025 07:33:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[28-Mar-2025 07:33:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[28-Mar-2025 07:33:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[28-Mar-2025 07:34:16 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[28-Mar-2025 07:34:16 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[28-Mar-2025 07:34:16 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[28-Mar-2025 07:34:16 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[28-Mar-2025 07:34:16 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[28-Mar-2025 23:00:32 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[28-Mar-2025 23:00:32 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[28-Mar-2025 23:00:32 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[28-Mar-2025 23:00:32 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[28-Mar-2025 23:00:32 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[28-Mar-2025 23:00:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[31-Mar-2025 09:33:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[31-Mar-2025 09:33:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[31-Mar-2025 09:33:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[31-Mar-2025 09:33:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[31-Mar-2025 09:33:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[31-Mar-2025 09:33:44 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[31-Mar-2025 09:33:44 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[31-Mar-2025 09:33:44 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[31-Mar-2025 09:33:44 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[31-Mar-2025 09:33:44 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[31-Mar-2025 09:33:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[31-Mar-2025 09:34:10 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[31-Mar-2025 09:34:10 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[31-Mar-2025 09:34:10 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[31-Mar-2025 09:34:10 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[31-Mar-2025 09:34:10 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[31-Mar-2025 09:34:25 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[31-Mar-2025 09:34:25 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[31-Mar-2025 09:34:25 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[31-Mar-2025 09:34:25 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[31-Mar-2025 09:34:25 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[31-Mar-2025 09:34:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[31-Mar-2025 09:34:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[31-Mar-2025 09:34:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[31-Mar-2025 09:34:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[31-Mar-2025 09:34:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[31-Mar-2025 16:02:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[31-Mar-2025 16:02:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[31-Mar-2025 16:02:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[31-Mar-2025 16:02:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[31-Mar-2025 16:02:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[31-Mar-2025 16:02:54 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[31-Mar-2025 16:02:54 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[31-Mar-2025 16:02:54 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[31-Mar-2025 16:02:54 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[31-Mar-2025 16:02:54 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[31-Mar-2025 17:23:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[31-Mar-2025 17:23:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[31-Mar-2025 17:23:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[31-Mar-2025 17:23:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[31-Mar-2025 17:23:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[05-Apr-2025 06:31:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[05-Apr-2025 06:31:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[05-Apr-2025 06:31:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[05-Apr-2025 06:31:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[05-Apr-2025 06:31:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[05-Apr-2025 06:34:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[05-Apr-2025 06:34:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[05-Apr-2025 06:34:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[05-Apr-2025 06:34:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[05-Apr-2025 06:34:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[06-Apr-2025 21:38:11 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[06-Apr-2025 21:38:11 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[06-Apr-2025 21:38:11 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[06-Apr-2025 21:38:11 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[06-Apr-2025 21:38:11 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[09-Apr-2025 13:47:18 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[09-Apr-2025 13:47:18 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[09-Apr-2025 13:47:18 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[09-Apr-2025 13:47:18 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[09-Apr-2025 13:47:18 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[09-Apr-2025 13:47:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $username in /home/marketmm/public_html/App/header.php on line 3
+[11-Apr-2025 01:12:20 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[11-Apr-2025 01:12:20 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[11-Apr-2025 01:12:20 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[11-Apr-2025 01:12:20 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[11-Apr-2025 01:12:20 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[11-Apr-2025 01:12:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[11-Apr-2025 01:12:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[11-Apr-2025 01:12:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[11-Apr-2025 01:12:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[11-Apr-2025 01:12:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
+[15-Apr-2025 02:52:04 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 265
+[15-Apr-2025 02:52:04 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 267
+[15-Apr-2025 02:52:04 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 269
+[15-Apr-2025 02:52:04 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 271
+[15-Apr-2025 02:52:04 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/marketmm/public_html/Core/function.php on line 273
